@@ -18,12 +18,14 @@ As visualizações são criadas utilizando a biblioteca Plotly e incluem:
 * Mapas por município, exibindo a concentração de queimadas por município.
 * Visualizações classificadas por Fire Power (FRP) e risco de fogo, permitindo a análise de diferentes níveis de severidade das queimadas.
 
+## Aplicação
+
+As visualizações geradas são utilizadas para compor a aplicação que será utilizada
+
 ## Como Executar o Código
 
 1. Clone este repositório em sua máquina local.
-2. Abra o notebook `main.ipynb` no Google Colab.
-3. Execute as células do notebook para gerar as visualizações.
-4. As visualizações serão salvas na pasta `/content/drive/MyDrive/plots_vis_dados/`.
+2. Para rodar a aplicação, execute o arquivo `app.html` dentro da pasta 
 
 ## Autores
 
