@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto tem como objetivo criar visualizações informativas e intuitivas de dados sobre queimadas no Brasil, utilizando dados abertos do governo brasileiro. O foco é auxiliar na compreensão dos padrões, tendências e áreas críticas de ocorrência de queimadas, tornando a informação acessível tanto para especialistas quanto para o público em geral.
+Este projeto tem como objetivo criar uma aplicação web para exibir visualizações informativas e intuitivas de dados sobre queimadas no Brasil, utilizando dados abertos do governo brasileiro. O foco é auxiliar na compreensão dos padrões, tendências e áreas críticas de ocorrência de queimadas, tornando a informação acessível tanto para especialistas quanto para o público em geral.
 
 ## Dados
 
