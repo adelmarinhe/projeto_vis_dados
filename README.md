@@ -27,6 +27,10 @@ As visualizações geradas são utilizadas para compor a aplicação que será u
 1. Clone este repositório em sua máquina local.
 2. Para rodar a aplicação, execute o arquivo `app.html` dentro da pasta `app_vis`
 
+## Observações
+
+Este projeto está em desenvolvimento
+
 ## Autores
 
 * José Adeljan Marinho da Silva
