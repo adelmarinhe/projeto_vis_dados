@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização de Queimadas no Brasil</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1 onclick="pagInicial()">Mapeamento de Queimadas no Brasil</h1>
+        <nav id="map-options">
+            <button onclick="mostrarMapa('pontos')">Pontos</button>
+            <button onclick="mostrarMapa('biomas')">Biomas</button>
+            <button onclick="mostrarMapa('geral_estados')">Distribuição Geral por Estado</button>
+            <button onclick="mostrarMapaEstados()">Filtro de Estados</button>
+            <button onclick="mostrarMapaClass()">Classificação</button>
+        </nav>
+        <!-- Contêiner para filtros e configurações -->
+        <div id="filter-container"></div>
+    </header>
+
+    <main>
+        <!-- Contêiner para o mapa -->
+        <div id="map-container"></div>
+    </main>
+
+    <!-- <footer>
+        Autores: Gilvo Junior, José Adeljan Marinho, Paulo Salgado
+    </footer> -->
+
+    <script src="script.js"></script>
+</body>
+</html>
