@@ -25,7 +25,7 @@ As visualizações geradas são utilizadas para compor a aplicação que será u
 ## Como Executar o Código
 
 1. Clone este repositório em sua máquina local.
-2. Para rodar a aplicação, execute o arquivo `app.html` dentro da pasta 
+2. Para rodar a aplicação, execute o arquivo `app.html` dentro da pasta `app_vis`
 
 ## Autores
 
